@@ -156,11 +156,34 @@ En cada espacio da análisis, se discutió en dos "perfiles" principales que usa
 <br />
 <br />
 
+## Job to be done
+
+<details>
+    <summary>Profesores</summary>
+    * Ofrecer herramientas que permitan al docente sacar el maximo provecho al ambito digital para facilita el aprendizaje.
+</details>
+
+<details>
+    <summary>Estudiantes</summary>
+    * Ofrecer herramientas que permitan al docente sacar el maximo provecho al ambito digital para facilita el aprendizaje.
+</details>
+
+## ¿Cómo vas a lanzar las propuestas de feature de 7 estrellas establecida en tu plan?
+
+<details>
+    <summary>Profesores</summary>
+    * 1.  Para lograr monitorear de alguna manera si en el examen hubo eventos de "paste" en las respuestas, medir el tiempo en el que el usurario deja la venta de examen en segundo plano entre respuesta y respuesta. Posteriormente se trabajaría en lograr grabar la pantalla del examen.
+    * 2. Crear un espacio de conexión donde docentes de materias similares puedan compartir documentos, publicaciones y material de interés a manera de post. Luego implementaríamos un sistema de comentarios, y calificaciones para rankear el material.
+</details>
+
+<details>
+    <summary>Estudiantes</summary>
+    * Priorizando funcionalidades bajo el concepto de“Imperfect is perfect”, y considerando las features que se implementarían en nuestra experiencia de 7 estrellas. 
+    * 1. Crearemos un sistema de calificaciones hacia los docentes, al finalizar cada clase, cada alumno podrá calificar al docente del 1 al 5, estas calificaciones se sumarán al global de docente y se verán reflejadas en su perfil. Posteriormente se trabajará en implementar comentarios en el sistema de calificaciones.
+    * 2. Dentro de la clase en meet, para poder detectar las tareas la idea inicial es hacerlo a través de un comando en el chat ''/tarea nombre-tarea deathline " para luego desarrollar la detección dentro de la llamada de un comando de voz que pueda detectar la actividad y sus detalles y crearla en el dashboard de actividades.
+</details>
+
 
 
 #### Autores:
 * Anthony Gonzalez [C7]
-* Sergio Estrella [C3]
-* Wilmer Díaz [C2]
-* Oscar Palomino [C4]
-* Santiago Salgado [C7]
